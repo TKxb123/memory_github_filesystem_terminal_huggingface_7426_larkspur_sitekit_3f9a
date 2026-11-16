@@ -3,12 +3,12 @@ description: "A minimal static-site template for Larkspur Phonetics Lab profiles
 theme: larkspur-minimal
 
 author:
-  name: "Your Name"
-  email: "you@example.org"
-  orcid: ""
-  homepage: ""
-  employment_basis: ""
-  bio: "Replace this biography with the featured researcher's profile."
+  name: "Dr. Aurelio Quintero-Banks"
+  email: "a.quintero-banks@marden.edu"
+  orcid: "https://orcid.org/0000-0002-8164-3371"
+  homepage: "https://marden.edu/linguistics/people/aurelio-quintero-banks"
+  employment_basis: "fixed_term"
+  bio: "Associate Professor (fixed-term) of Computational Phonetics at Marden University"
 
 navigation:
   - title: "Profile"
